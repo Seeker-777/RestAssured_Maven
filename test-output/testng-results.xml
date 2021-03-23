@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-19T05:32:28Z" name="Default suite" finished-at="2021-03-19T05:32:29Z" duration-ms="1682">
+    <groups>
+    </groups>
+    <test started-at="2021-03-19T05:32:28Z" name="Default test" finished-at="2021-03-19T05:32:29Z" duration-ms="1682">
+      <class name="restAPIBDD.PutRequestBDD">
+        <test-method signature="test1()[pri:0, instance:restAPIBDD.PutRequestBDD@2ddc9a9f]" started-at="2021-03-19T05:32:28Z" name="test1" finished-at="2021-03-19T05:32:29Z" duration-ms="1666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- restAPIBDD.PutRequestBDD -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
